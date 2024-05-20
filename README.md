@@ -3,7 +3,7 @@
 Perkenalkan nama saya **Muhammad Henry Kurniawan**.
 
 Saya seorang **Web Developer** 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/utomo-yoga-firmansyah-aa2a2b1aa/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-henry-kurniawan-a53176231/).
 - 🌱 I’m currently learning about Frontend and Backend for Web
 - 💬 Feel free to ask me about web development
 - 📫 How to reach me: kurniawanhenry697@gmail.com
@@ -19,7 +19,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/yoghaf">
+<a href="https://github.com/mhenrykurniawan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhenry200800&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhenry200800&layout=compact&langs_count=8&theme=algolia"/>
 </a>
